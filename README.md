@@ -1,6 +1,6 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# DESAFIO
 
-### Template
+### 
 
 ```markdown
 # O futuro em um cenário pós extinção humana
